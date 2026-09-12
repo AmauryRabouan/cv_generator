@@ -57,12 +57,7 @@ Edit `data.json`. Every top-level key is optional — remove a section (e.g.
 - `certifications`, `first_aid`: `["…"]` — simple bullet lists
 - `education`, `experience`: `[{period, title, org?, description?}]` — rendered as a timeline
 - `activities`: `[{title, org?, description?}]`
-
-## Photo
-
-`assets/photo.jpg` is currently a tight crop taken from the old CV screenshot,
-so it's a bit soft. Drop a higher-resolution square photo at the same path
-(or update `data.json`'s `photo` field to point elsewhere) and rebuild.
+- `photo`: `assets/photo.jpg`
 
 ## Fonts
 
