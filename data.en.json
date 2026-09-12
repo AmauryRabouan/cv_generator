@@ -1,0 +1,112 @@
+{
+  "lang": "en",
+  "labels": {
+    "languages": "Languages",
+    "strengths": "Strengths",
+    "skills": "Skills",
+    "interests": "Interests",
+    "certifications": "Certifications",
+    "first_aid": "First Aid",
+    "experience": "Experience",
+    "education": "Education & Training",
+    "activities": "Extracurricular Activities"
+  },
+  "name": "Amaury Rabouan",
+  "title": "Data Scientist | Machine Learning Engineer",
+  "tagline": "Passionate about data and how it can be leveraged to solve complex problems, I am looking for challenging projects in the field of data science.",
+  "photo": "assets/photo.jpg",
+  "social": [
+    { "label": "LinkedIn", "value": "amauryrabouan", "url": "https://www.linkedin.com/in/amauryrabouan" },
+    { "label": "GitHub", "value": "@AmauryRabouan", "url": "https://github.com/AmauryRabouan" }
+  ],
+  "quick_info": [
+    { "icon": "mail", "value": "amaury.rabouan@gmail.com", "url": "mailto:amaury.rabouan@gmail.com" },
+    { "icon": "phone", "value": "+33 7 77 69 00 93", "url": "tel:+33777690093" },
+    { "icon": "map-pin", "value": "Paris, France", "url": "https://www.google.com/maps/place/Paris/@48.8588476,2.3058349,13z" },
+    { "icon": "cake", "value": "24 years old" },
+    { "icon": "id-card", "value": "Driving license" }
+  ],
+  "languages": [
+    { "name": "French", "detail": "Native speaker", "note": "" },
+    { "name": "English", "detail": "Professional working proficiency", "note": "" },
+    { "name": "Chinese", "detail": "Basic Traditional Mandarin", "note": "6-month immersion in Taiwan" }
+  ],
+  "strengths": ["Flexible", "Determined", "Innovative", "Sociable", "Team player"],
+  "interests": [
+    { "name": "Sports", "detail": "Basketball, Badminton, Running" },
+    { "name": "Video Games", "detail": "Strategy, English and teamwork" },
+    { "name": "Travel", "detail": "Asia, Europe" }
+  ],
+  "skills": [
+    { "category": "Artificial Intelligence", "items": "Keras, TensorFlow, Scikit-Learn, NumPy, Pandas, OpenCV, PyTorch, Hugging Face" },
+    { "category": "Programming", "items": "Python, C, C++, Java, JS, HTML, CSS, PHP, R, Bash, D3.js, SQL" },
+    { "category": "OS & Software", "items": "Windows, Linux, Git, Unity, Office, Trello, Tableau, Docker, Jira, AI-assisted programming" }
+  ],
+  "certifications": [
+    { "text": "Data Visualization Certification", "url": "https://www.freecodecamp.org/certification/fcc65d87520-7d97-403c-8c17-19a700f791a1/data-visualization" },
+    { "text": "Machine Learning with Python Certification", "url": "https://www.freecodecamp.org/certification/fcc65d87520-7d97-403c-8c17-19a700f791a1/machine-learning-with-python-v7" }
+  ],
+  "first_aid": [
+    "PSC1: Civilian first aid certificate",
+    "SC1: Combat casualty care - 11th Marine Artillery Regiment"
+  ],
+  "education": [
+    {
+      "period": "Sept. 2019 - Aug. 2024",
+      "title": "MEng in Computer Science",
+      "org": "ESIEA, Laval, France",
+      "description": "Major in Artificial Intelligence and Data Science - numerous hands-on technical projects."
+    },
+    {
+      "period": "Aug. 2021 - Jan. 2022",
+      "title": "Master 1 Computer Science",
+      "org": "Tamkang University, Taiwan",
+      "description": "Artificial Intelligence, Swarm Intelligence, Image Processing, AWS Cloud Computing, Research."
+    },
+    {
+      "period": "Sept. 2016 - June 2019",
+      "title": "French Scientific Baccalaureate - Engineering Sciences",
+      "org": "Lycée Livet, Nantes, France",
+      "description": null
+    }
+  ],
+  "experience": [
+    {
+      "period": "Since Aug. 2024",
+      "title": "Data Scientist - Licenses Compliance",
+      "org": "Dassault Systèmes, Vélizy-Villacoublay, France",
+      "description": "Investigation and detection of software license fraud. Process automation through Machine Learning and LLM algorithms. Large-scale data analysis, data mining. Building dashboards to track KPIs and visualize results. Management."
+    },
+    {
+      "period": "Feb. - Aug. 2024",
+      "title": "R&D Engineering Intern - Transforming Operations with AI",
+      "org": "Dassault Systèmes, Vélizy-Villacoublay, France",
+      "description": "Identification of low-added-value coding tasks and their automation through AI and NLP. Built a chatbot, pre-trained and fine-tuned models, applied RAG."
+    },
+    {
+      "period": "Apr. - Sept. 2023",
+      "title": "Synthetic Data Intern",
+      "org": "Sibylone, Paris, France",
+      "description": "R&D on synthetic data generation, machine learning model design, time series forecasting, multi-label classification, interactive visualization."
+    },
+    {
+      "period": "July 2020 - Aug. 2025",
+      "title": "Military Reservist",
+      "org": "11th Marine Artillery Regiment, Saint-Aubin-du-Cormier, France",
+      "description": "National territory defense missions and training. Commando course: pushing personal limits, team spirit."
+    },
+    {
+      "period": "Sept. 2019 - June 2020",
+      "title": "Robotics Discovery Workshop Leader",
+      "org": "ESIEA & CLEP",
+      "description": "Robotics discovery workshop for children aged 8 to 15."
+    }
+  ],
+  "activities": [
+    {
+      "title": "Head of the Student Union and Sports Office",
+      "org": "ESIEA",
+      "description": "Event creation (1000+ attendees), sponsor prospecting, communication, teamwork, project management."
+    }
+  ]
+}

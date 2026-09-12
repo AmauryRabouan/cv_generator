@@ -1,0 +1,101 @@
+{
+  "lang": "fr",
+  "name": "Amaury Rabouan",
+  "title": "Data Scientist | Ingénieur Machine Learning",
+  "tagline": "Passionné par les données et leur exploitation pour résoudre des problèmes complexes, je suis à la recherche de projets challengeants dans le domaine de la data science.",
+  "photo": "assets/photo.jpg",
+  "social": [
+    { "label": "LinkedIn", "value": "amauryrabouan", "url": "https://www.linkedin.com/in/amauryrabouan" },
+    { "label": "GitHub", "value": "@AmauryRabouan", "url": "https://github.com/AmauryRabouan" }
+  ],
+  "quick_info": [
+    { "icon": "mail", "value": "amaury.rabouan@gmail.com", "url": "mailto:amaury.rabouan@gmail.com" },
+    { "icon": "phone", "value": "07 77 69 00 93", "url": "tel:+33777690093" },
+    { "icon": "map-pin", "value": "Paris", "url": "https://www.google.com/maps/place/Paris/@48.8588476,2.3058349,13z" },
+    { "icon": "cake", "value": "24 ans" },
+    { "icon": "id-card", "value": "Permis B" }
+  ],
+  "languages": [
+    { "name": "Anglais", "detail": "Anglais professionnel", "note": "" },
+    { "name": "Chinois", "detail": "Base du Mandarin Traditionnel", "note": "Immersion 6 mois à Taïwan" }
+  ],
+  "strengths": ["Flexible", "Déterminé", "Innovant", "Sociable","Esprit d'équipe"],
+  "interests": [
+    { "name": "Sport", "detail": "Basket, Badminton, Course à pied" },
+    { "name": "Jeux Vidéo", "detail": "Stratégie, anglais et travail d'équipe" },
+    { "name": "Voyages", "detail": "Asie, Europe" }
+  ],
+  "skills": [
+    { "category": "Intelligence Artificielle", "items": "Keras, TensorFlow, Scikit-Learn, NumPy, Pandas, OpenCV, PyTorch, Hugging Face" },
+    { "category": "Programmation", "items": "Python, C, C++, Java, JS, HTML, CSS, PHP, R, Bash, D3.js, SQL" },
+    { "category": "OS & Logiciels", "items": "Windows, Linux, Git, Unity, Office, Trello, Tableau, Docker, Jira, Programmation assistée par IA" }
+
+  ],
+  "certifications": [
+    { "text": "Certification Data Visualisation", "url": "https://www.freecodecamp.org/certification/fcc65d87520-7d97-403c-8c17-19a700f791a1/data-visualization" },
+    { "text": "Certification Machine Learning with Python", "url": "https://www.freecodecamp.org/certification/fcc65d87520-7d97-403c-8c17-19a700f791a1/machine-learning-with-python-v7" }
+  ],
+  "first_aid": [
+    "PSC1 : Premiers secours civil",
+    "SC1 : Secours au combat - 11ème RAMa"
+  ],
+  "education": [
+    {
+      "period": "Sept. 2019 - Août 2024",
+      "title": "Ingénieur Informatique",
+      "org": "ESIEA, Laval",
+      "description": "Majeure Intelligence Artificielle et Data Science - nombreux projets techniques de mise en application."
+    },
+    {
+      "period": "Août 2021 - Janv. 2022",
+      "title": "Master 1 Computer Science",
+      "org": "Tamkang University, Taïwan",
+      "description": "Artificial Intelligence, Swarm Intelligence, Image Processing, AWS Cloud Computing, Research."
+    },
+    {
+      "period": "Sept. 2016 - Juin 2019",
+      "title": "Baccalauréat S - Sciences de l'ingénieur",
+      "org": "Lycée Livet, Nantes",
+      "description": null
+    }
+  ],
+  "experience": [
+    {
+      "period": "Depuis Août 2024",
+      "title": "Ingénieur Data Scientist - Licenses Compliance",
+      "org": "Dassault Systèmes, Vélizy-Villacoublay",
+      "description": "Investigation et detection des fraudes liées aux licences logicielles. Automatisation des processus via des algorithmes de Machine Learning et LLM. Analyse de données massives, Data Mining. Création de dashboards pour le suivi des KPIs et la visualisation des résultats. Management."
+    },
+    {
+      "period": "Fév. - Août 2024",
+      "title": "Stagiaire Ingénieur R&D - Transformation des Opérations par l'IA",
+      "org": "Dassault Systèmes, Vélizy-Villacoublay",
+      "description": "Identification des tâches de coding à faible valeur ajoutée, automatisation via IA et NLP. Création d'un chatbot, pre-training et fine-tuning de modèles, utilisation de RAG."
+    },
+    {
+      "period": "Avril - Sept. 2023",
+      "title": "Stagiaire Données Synthétiques",
+      "org": "Sibylone, Paris",
+      "description": "R&D pour la génération de données synthétiques, création de modèles de machine learning, prédiction de données temporelles, classification multi-labels, visualisation interactive."
+    },
+    {
+      "period": "Juillet 2020 - Août 2025",
+      "title": "Réserviste Militaire",
+      "org": "11ème RAMa, Saint-Aubin-du-Cormier",
+      "description": "Missions de défense du territoire national et entraînements. Stage Commando : dépassement de soi, esprit d'équipe."
+    },
+    {
+      "period": "Sept. 2019 - Juin 2020",
+      "title": "Responsable d'un atelier découverte de la robotique",
+      "org": "ESIEA & CLEP",
+      "description": "Atelier découverte de la robotique pour des enfants de 8 à 15 ans."
+    }
+  ],
+  "activities": [
+    {
+      "title": "Responsable bureau des élèves et bureau des sports",
+      "org": "ESIEA",
+      "description": "Création d'événements (+1000 participants), démarchage de sponsors, communication, travail d'équipe, gestion de projets."
+    }
+  ]
+}
